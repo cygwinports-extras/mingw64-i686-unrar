@@ -4,7 +4,7 @@ CROSS_HOST="i686-w64-mingw32"
 inherit cross
 
 NAME="mingw64-i686-unrar"
-VERSION=5.0.13
+VERSION=5.2.7
 RELEASE=1
 CATEGORY="Devel"
 SUMMARY="RAR archive decompressor for Win32 toolchain"
